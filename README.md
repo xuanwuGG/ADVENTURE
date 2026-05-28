@@ -29,7 +29,7 @@
 
 - 保留 `Assets`、`Packages`、`ProjectSettings`
 - `.gitignore` 已排除 `Library`、`Temp`、`Logs` 等生成目录
-- 建议通过 GitHub Releases 同步发布可执行版本，方便试玩
+
 
 ## 备注
 
